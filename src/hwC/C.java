@@ -9,7 +9,7 @@ public class C {
 
 
 	//Code written in GitHub
-	public static void main(String[] args){
+	public static void cgange(){
 		System.out.println("Java is fun");
 	}
 }
